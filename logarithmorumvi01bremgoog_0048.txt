@@ -1,0 +1,43 @@
+luusonuurlo.
+
+intrao et '1 5586 errores
+„ 1„ 2....3194 ,,’ .
+n 2„ 3···· 1025 2,
+m 3„ 4···· 178 n
+η 4„ 5¹⁰· 16 n
+n 5η 6···· Ῑ υ
+59 6 ‚2 10 0 η
+id quod aliis verbis etiam sio diei potest: Inter 10000 summas,
+quae additione viginti loganilhmornm e tabula desumtorum fiunt,
+5586 affectae sunt exrore intra lines 0 et l posito qui ultimae uotae
+decimalis partibus exhibetur, nullius vero error maj0r erit quam 6.
+Haec computatio quodammodo comprobari potest additione
+ipsa viginti logarithmorum aliquoties faeta. Exemplum sit vi·
+giuti priorum logarithmorum irrationalium e tabula quinque deoi-
+malium desumtorum summa, in qua, eomparata eorundem loge·
+nilhmonum summa ad septimam usqne uotam decimalem eompu-
+tatorum errorem -1,66 invenimus, vel loganithmorum ad quin·
+tam usque notam decimalem computaturum summa minor eat
+1,66, quae sunt ultimae uotae decimalis partes. Simili modo erro-
+* rem in subsequentium 2010garithmorum summa invenimus ete,
+sed omissis logmithmis rationalibus numerorum 1, 10, 100.
+Errores inventi sunt:
+Summa logarithm. 2- 22 error -1,66
+23- 42 ,, 1216
+43- 62 ,, - 0,81
+63- 82 ,, -· 2,02
+83-103 ,, 1042
+104-123 „ ÷0,83
+124-113 ,, -0,07
+144-163 „ 10,87
+164-183 ,, 1023
+184-203 ,, -1- 0,04
+204-223 ,, 11,75
+224-243 „ 1323
+244-263 ,, -0,12
+264-283 ,, -1,54
+ι noa-303 ‚‚ 1 043
+304-323 ,, -0,12
+
+ 
+

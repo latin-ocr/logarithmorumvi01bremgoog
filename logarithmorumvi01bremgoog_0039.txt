@@ -1,0 +1,51 @@
+llll ERRORIBUS, QUIBUS COMPUTATIONES
+LOGARITHMIGAE hFFlClllllTllll.
+
+s. 1.
+
+Quum cujuslibet legarithmi valor verus et integer plerum· , ’
+
+. -que sit numerus irrationalis, qui exhiberi nequeat nisi infinita .
+
+’ notarum decimalium serie, in tabulis vero legarithmicis priores
+tanturn notae decimales inveniantur, quibus pro vero et integro
+⁹ illc¹ legarithmi valore in computationibus utimur, apparet omnia,
+
+' quae legarithmorum ope computantur, errore vel majore vel mi·
+nore laborare. Sed quamdiu nos non piguit plures notas deci·
+males in computatione adhibere, quam quot computationis data
+
+pro ,subtilitate sua poscunt, hic error clogarithmis parum accu- · ·
+ratis proficiscens pro nihilo habendus est, si oum co compara· - ,
+
+tur, qui e datis pamm accuratis originem ducit. Quandocunque Δ
+vero propositum est, ut eac tantuin notae decimales in compu-
+tatione adhibeantur, quae pro datorum subtilitate prorsus necessa·
+
+riae sint, nc opera inutiliter perdatur, tum in loco erit, prius· ¹
+
+quam.'computatio instituatur, errorum rationem habere, qui a
+notis decimalibus omissis proficisci possint, atque de his disqui- -
+
+- sitio, quam intrudere conabimur, num 5 v'el 6 vel‘l notae deci· ·
+
+· males in computatione adhibendae sint docebit.
+
+s. a.
+
+Primum sumas, omnium logorithmorum in computatione
+adhibitorum errores et quidem exactos eorum valeres constare.
+Tum calculi differentialis cpe facile ex iis summae finalis error
+derivari potcst3 in quo satis est priora differentialis adhibuisse, Ι
+
+, quum errores prae legarithmorum valoribus exactis valeres mi-
+
+’ nimi haberi possint, quorum dignitates superiores nullius in com· ,’
+
+1 putatione sunt momenti. Aequationes in ea computatione hasce
+' adhibeas: '
+
+t
+
+ 
+

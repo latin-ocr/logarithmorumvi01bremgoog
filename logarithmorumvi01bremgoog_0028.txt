@@ -1,0 +1,57 @@
+aa . .“ mrmnoono. ,’
+
+Si hypothenusa e tantum quaeritur, angulum A scribas neeesse
+non est, quum a tangente ejus statim ad sinum vel eosinum
+(maiorem) transire possis, qui a majore logarithmorum supra eum
+positorum est subtrahendus.
+
+DE TllllllGllllS SPHAERICIS.
+
+Denotentur m triangulo quolibet sphaerico anguli notis A,
+B, 0, latera ns opposita sint a, h, c, proinde
+m}
+
+q Ξ
+Q² Ε coe (S-A) eos (S-B) eor (S-C)
+— eos S ⁶
+E descriptione trianguli proficiscitur aequatio
+oosa=oosb ooso÷sinbsineeosA‚
+unde, notis b, B pro a, A vel c, Cpro a, A positis, duae no-
+vae aequationes derivantur, ut habeas:
+
+1. eoso=oosboose÷sinbsinoeosA
+cosb=eosa oose÷einasine oosB
+eoso=eosa eosb÷sinasinb oosC.
+
+Porro si primam harum aequationem pdr oose multiplicatam ad
+
+alteram addideris, itemque primam per cos b multiplicatam ed · ¹
+
+tertiam, has duas aequationes habebis
+2. eosbsine=sina oosB†sinbooseeosA
+oosasino=sinb oosA ÷sinooosooosB
+⁵ quarum una, mutatione litterarum saeta, non solum exhibet alte·
+ram, sed etiam alias quattuor aequationes. -
+Primum nuno computentur duarum priorum aequationuln l.
+- ope eoae et sin a:
+
+ain b eos e cos A -sin a cos a cos B
+
+coece . .
+aoso arn t eos A - arno cos t eos B
+
+eos α’ - cos b’
+oosesinbcosA-sinaeosboosB
+quos valores in quadratum eleves eorumque summam ε, l ponas,
+ot habebis
+
+sino=
+
+sinA slnB
+
+-ΗΝ,
+
+arna sint
+
+ 
+

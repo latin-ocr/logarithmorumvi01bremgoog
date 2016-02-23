@@ -1,0 +1,54 @@
+'rumonuorm “ ¹ aa
+
+’ exhibiti omnes ultimas notae decimatis partibus3 vel, si pro v0·² ·
+ejus valor a,²÷‹x,²÷.. ,α εΣᾳ2 ponitur,
+
+ρν- ent error probabilis
+
+· -6-π- error medius.
+
+s. n.
+
+Priusquam formulas inventas adhibeamus, computationem
+logarithmicam in universum accuratius perscrutemur. Primum
+sumendum nonest, quotiens transieris a logarithmo adnumerum j
+
+, · vel a numero ad logarithmum, totiens errorem nasei, cujus finis
+
+sit dimidia unitas, dummodo ad tabulas *logaritbmum partem ι
+proportionalem addideris. Deinde erroris probabilitas in diver-'
+sis intervallis non est eadem, quum plures errorum fontes exi-
+
+stant. Denique inter se discrepant et limites et probabilitates ,
+
+errorum, prout a numero ad logarithmum aut a legarithmo ad ·
+
+· numerum fit transitus. Aequationes igitur in ξ. 2 propositae,
+
+in quibus pro transitu unoquoque unus tantum erroris fons sumtus
+est, modificatione quadam egent. Sed, ut omnia exacte formulis
+exhibeantur, primum a numero transitus ad logarithmum aecu- . .
+ratius consideretur. ’
+
+Quod si propositum est, ut dato numero respondens loga· , λ
+
+rithmus quaeratur, vulgo ita agitur, ut ad tabulae logaritbmum
+Ι pars proportionalis differentiae legarithmorum tabulae addatur.
+Itaque si L, et L, sunt logarithmi tabulae, inter quos inter·
+¹ palatio instituenda est, ε autem est fractio, per quam differentia
+. A=L,-L, est multiplicanda, seeundum regulam vulgarem, eujus
+hoe loeo ratio habenda est,
+Η L, -Ι-εΔ
+erit loparimmus quaesitus, in quo ru accurate quidem eompu-
+tatum est, sad integris tantum ultimae notae decimalis unitatibus
+exhibitum. ,
+Sumatur, s, et f, esse errores legarithmorum tabulae L, et L„
+ita intelligendos, ut L,÷f, et L,·t·f, sint exacti logarithmorum
+ratores, error logarithmi L,÷ea erit
+
+,ΗΜ-ΛΜΞ
+
+’. ἐἰῇ designat errorem, qui e producto decurtato εΔ proficiscitur, ¹
+
+ 
+

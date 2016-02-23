@@ -1,0 +1,63 @@
+ιι , nraonnerro.
+
+Quum faetores tangentium tg ξι, qui a valore μ dependent, nen
+multam inter se discrepent, medius pro iis valor 0,ae poni po·
+test, qni senioribus extremis vix 10² abest, ut babeas:
+
+tedio)
+
+0,''00
+
+0, 03
+
+0, 01
+
+0,10
+
+0,14
+
+0,17
+
+0, 21
+
+0, 26
+
+0, 31
+
+0, 31
+Longius hane tabellam, quae unicuique velari o errorem proba·
+
+’ bilem respondentem approximatione exhibet, non opus est exten·
+
+dere, quum pro valore ι>900 nitere aequatio
+ooe {a = σοι ÷(o÷b)² ÷eina sinb costo
+adhibentur, eujus solutio oet eudem et quae pro valoribus 0:90⁰
+usque ad e=1etu eundem habet errorem probabilem.
+Probabilitee W erroris intra certos limites vel intra ὲ 1 minut.
+· seo. positi computatur ax aequatione
+
+a
+s l? e·¹' de
+
+Ι vei, quum sit {V}- :⁹
+ζ ,
+
+pro ζ ponatur limes, pro roF error probabilis, argumentoque ἦ,
+
+respondens valor W quaeratur in hujus integralis tabule. Si · Ι
+· exempli gretia pro wb‘ sumitur valor maximus supra inventus 0137,
+
+¹ asam, ettraooditt'erentiu quaeritur tn tabulae columna serua, oni suprascriptum , “
+“ eu σοις. Deinde o notrunns quarta, oui suprascriptum eet eos, logaritbntne reapon-
+
+' deae sumitur. qni a iogA subtractae quaesitum logG efficit. Sin eet B>A‚ diffe-
+rentis iogB-iopA in columna tertie quaerenda et columneo quartae ingerithmus
+respondens ι togB subtrahendus est. Itaque semper ee differentia sumitur, qnae
+major eu quem 1, et columnae quartae iogen'tbmns respondens a majore logerith·
+
+· morum datorem subtrabitur. ln erroris probabitis computatione hnjm regulae its ,
+
+’ ⁸ ratio trabtta ιιι, ιιι pro p>so⁰ ιι ιοιιιιιιιιιι ad sinum flat transitus.
+
+ 
+
